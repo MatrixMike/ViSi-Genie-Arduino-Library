@@ -5,7 +5,7 @@ ViSi-Genie-Arduino-Library
 
 Arduino Library for 4D Systems ViSi-Genie Environment
 
-This library now supports support for neagative numbers, unsigned longs, unsigned integers with the WriteStr function.
+This library now supports support for negative numbers, unsigned longs, unsigned integers with the WriteStr function.
 This library now features enhanced String Writing capability, no longer is a character Array the only viable option. 
 This library recently included support for the new Workshop4 PRO features.
 This library recently added support for 2+ displays connected to a single Arduino, and adds a new Demo to illustrate how that is achieved.
@@ -14,7 +14,7 @@ This library recently added support for 2+ displays connected to a single Arduin
 
 This library provides high level functions for the Arduino, to ease communication with 4D Systems modules when using the module configured with ViSi-Genie.
 Workshop4 PRO adds additional features to ViSi-Genie, allowing the User to write 4DGL code which can be executed at will from ViSi-Genie, enabling many advanced features not previously possible.
-Please refer to the 4D Systems website, namingly the Workshop 4 Product Page, for documentation regarding Workshop 4, and its environments.
+Please refer to the 4D Systems website, namely the Workshop 4 Product Page, for documentation regarding Workshop 4, and its environments.
 
 ## Installation
 
